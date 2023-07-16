@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maziar-goudarzi.github.io/al-folio/sitemap.xml
+Sitemap: https://maziar-goudarzi.github.io/sitemap.xml
